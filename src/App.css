@@ -1,5 +1,3 @@
-
-
 /* Viraj 04-09-2023 */
 
 
@@ -12,7 +10,7 @@ body {
   box-sizing: border-box;
 }
 
-.row > .column {
+.row>.column {
   padding: 0 8px;
 }
 
